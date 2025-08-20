@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djgam454&label=Profile%20views&color=0e75b6&style=flat" alt="djgam454" /> </p>
 
-- 🔭 I’m currently working on [Reseach Projects and Learning](https://ieeexplore.ieee.org/document/11048806)
+- 🔭 I’m currently working on [Reseach Projects and Learning](https://ieeexplore.ieee.org/document/11048806)(Could take 3-4 times to load)
 
 - 🌱 I’m currently learning **Spring and Agentic AI**
 
