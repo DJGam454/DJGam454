@@ -18,7 +18,7 @@
 
 I'm a Computer Science graduate focused on AI engineering, backend development, and intelligent software systems.
 
-Currently working at Tech Mahindra, where I work on AI-focused research and development projects.
+Currently working at Dynamisers Solutions, where I work on AI-focused research and development projects.
 
 My primary areas of interest are:
 
