@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/divyan-tiwari-69689a2b9/">LinkedIn</a> •
   <a href="https://github.com/DJGam454">GitHub(you are on it dummy)</a> •
-  <a href="mailto:divyantiwariuni4@gmail.com">Email</a>
+  <a href="mailto:divyantiwariuni4@gmail.com">Email</a>•
   <a href="https://djgam454.github.io/Portfolio-Website/">Portfolio Website</a>
 </p>
 
